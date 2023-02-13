@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "recilica-app",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
